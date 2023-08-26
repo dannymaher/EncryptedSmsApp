@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MESSAGELY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message_name">Enter a username</string>
+    <string name="error_message_password">Enter password</string>
+    <string name="error_password_invalid">Username and password do not match</string>
+    <string name="error_message_reenter">Re-enter password</string>
+    <string name="success_message">Account created</string>
+    <string name="error_account_exists">Account name already exists</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="tab_text_1">Messages</string>
+    <string name="tab_text_2">Contacts</string>
+    <string name="tab_text_3">Favourites</string>
+    <string name="error_contact_name">Contact name already exists</string>
+    <string name="blank_contact_name_input">Enter a name</string>
+    <string name="blank_contact_id_input">Enter an id</string>
+    <string name="blank_contact_num_input">Enter a number</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_users">UsersActivity</string>
+    <string name="title_activity_message">messageActivity</string>
+</resources>
